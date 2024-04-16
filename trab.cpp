@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-// VITOR DE ASSUS
+// VITOR DE ASSiS
 static void quit( int code )
 {
     /*
